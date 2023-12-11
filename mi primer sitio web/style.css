@@ -1,0 +1,9 @@
+body{
+    background: url("./fondo.jpg");
+    background-color: rgba(94, 94, 94, 0.932);
+}
+button{
+    background-color: rgb(255, 2, 2);
+    padding: 20px 50px;
+    font-weight: 800;
+}
